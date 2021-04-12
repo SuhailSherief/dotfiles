@@ -4,5 +4,7 @@ My dotfiles / config files that i use in my linux.<br><br>
 ***
 **Dependencies**<br>
 Install following programs on your system before you use these themes.<br>
-    -`polybar`
+- ` polybar ` : Polybar from official repository. <br>
+- ` pywal ` : For pywal support.
+- ` picom ` : Picom fork by ibhagavan with Dual_Kawase Blur
     
