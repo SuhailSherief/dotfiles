@@ -4,4 +4,5 @@ My dotfiles / config files that i use in my linux.<br><br>
 ***
 **Dependencies**<br>
 Install following programs on your system before you use these themes.<br>
-
+    -`polybar`
+    
