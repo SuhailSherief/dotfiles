@@ -1,4 +1,4 @@
-My dotfiles / config files that i use in my linux.<br><br>
+My dotfiles / config files that i use in my linux.<br>
 ***
 **Screenshot**
 <br><br>
